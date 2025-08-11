@@ -1,0 +1,5 @@
+district_id,district_name,state_name,year,employment_rate_pct,formal_employment_pct
+101,Example District 1,Example State A,2011,40,22
+102,Example District 2,Example State A,2011,35,18
+101,Example District 1,Example State A,2021,44,26
+102,Example District 2,Example State A,2021,38,20

@@ -1,0 +1,5 @@
+district_id,district_name,state_name,year,housing_with_piped_water_pct,housing_with_electricity_pct
+101,Example District 1,Example State A,2011,60,88
+102,Example District 2,Example State A,2011,50,80
+101,Example District 1,Example State A,2021,70,92
+102,Example District 2,Example State A,2021,55,85

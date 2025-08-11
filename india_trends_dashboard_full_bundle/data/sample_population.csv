@@ -1,0 +1,5 @@
+district_id,district_name,state_name,year,population_total,population_density
+101,Example District 1,Example State A,2011,450000,850
+102,Example District 2,Example State A,2011,300000,600
+101,Example District 1,Example State A,2021,480000,900
+102,Example District 2,Example State A,2021,320000,650
