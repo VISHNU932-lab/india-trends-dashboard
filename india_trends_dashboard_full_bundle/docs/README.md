@@ -18,5 +18,4 @@ Quick start:
    python get_and_prepare_data.py
 3. Run the app:
    streamlit run app.py
-
 PDF reports are saved in export/ by default.
